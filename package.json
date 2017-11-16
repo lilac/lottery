@@ -1,0 +1,12 @@
+{
+  "name": "lucky-draw",
+  "version": "1.0.0",
+  "description": "Draw lucky gifts.",
+  "main": "index.js",
+  "author": "Junjun Deng",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "pg": "^7.4.0"
+  }
+}
