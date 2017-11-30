@@ -11,3 +11,5 @@ app.use(route.allowedMethods());
 app.use(route.routes());
 
 app.listen(port, () => console.log(`Listen on ${port}...`));
+
+module.exports = app;

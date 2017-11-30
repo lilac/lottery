@@ -15,5 +15,8 @@
   "scripts": {
     "test": "jest",
     "start": "node server.js"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1"
   }
 }
