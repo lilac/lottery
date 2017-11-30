@@ -13,10 +13,11 @@
     "pg": "^7.4.0"
   },
   "scripts": {
-    "test": "jest",
+    "test": "jest --forceExit",
     "start": "node server.js"
   },
   "devDependencies": {
-    "jest": "^21.2.1"
+    "jest": "^21.2.1",
+    "supertest": "^3.0.0"
   }
 }
